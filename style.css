@@ -1,0 +1,48 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #fdf6f0;
+}
+
+header {
+  background: brown;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background: #d2a679;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px;
+}
+
+.produk {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button {
+  background: brown;
+  color: white;
+  border: none;
+  padding: 10px;
+}
